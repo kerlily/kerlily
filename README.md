@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kerlily&label=Profile%20views&color=0e75b6&style=flat" alt="kerlily" /> 
 </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development on CodePolitan**
+- 🌱 I’m currently learning **Full-Stack Web Development on NFAcademy and CodePolitan**
 
 - 📫 How to reach me **farhan15062004@gmail.com**
 
