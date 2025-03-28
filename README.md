@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **farhan15062004@gmail.com**
 
-- ⚡ Fun fact **I’m passionate about learning new things**
+- ⚡ Fun fact **I’m jeff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
