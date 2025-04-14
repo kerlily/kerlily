@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development on NFAcademy and CodePolitan**
 
-- 📫 How to reach me **farhan15062004@gmail.com**  
+- 📫 How to reach me **farhan15062004@gmail.com**   
 
 - ⚡ Fun fact **I’m jeff**
 
