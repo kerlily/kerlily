@@ -2,7 +2,7 @@
 <h3 align="center">A web development enthusiast from Indonesia</h3>
 
 <p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=kerlily&label=Profile%20views&color=0e75b6&style=flat" alt="kerlily" />   
+  <img src="https://komarev.com/ghpvc/?username=kerlily&label=Profile%20views&color=0e75b6&style=flat" alt="kerlily" />    
 </p> 
 
 - 🌱 I’m currently learning **Full-Stack Web Development on NFAcademy and CodePolitan**
