@@ -41,6 +41,12 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="bootstrap" width="40" height="40" />
+  </a>
 
 
   <!-- Back-End -->
@@ -50,6 +56,7 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
+  
   
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -62,6 +69,9 @@
   <!-- Tools -->
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
+  </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="codeigniter" width="40" height="40" />
   </a>
 </p>
  
