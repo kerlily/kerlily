@@ -73,5 +73,8 @@
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="codeigniter" width="40" height="40" />
   </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="codeigniter" width="40" height="40" />
+  </a>
 </p>
  
