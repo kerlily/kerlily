@@ -65,6 +65,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="mongodb" width="40" height="40" />
+  </a>
   
   <!-- Tools -->
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
